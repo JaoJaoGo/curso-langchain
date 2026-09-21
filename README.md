@@ -143,6 +143,8 @@ Projeto de estudos sobre LangChain, LangGraph e integrações com LLMs.
 - `aula06/` - Exemplos da aula 6 (Output Parsers)
 - `aula07-08/` - Exemplos das aulas 7 e 8 (Chains: Básica, Sequencial, Paralela e Branch)
 - `aula09/` - Exemplos da aula 9 (Document Loaders: PDF, TXT, Web, CSV)
+- `aula10/` - Exemplos da aula 10 (memória e memória com trimmer)
+- `aula11/` - Sistema de chatbot com memória + trimmer de atendimento de smartfit.
 - `requirements.txt` - Dependências do projeto
 - `teste_instalacao.py` - Script para testar a instalação
 
